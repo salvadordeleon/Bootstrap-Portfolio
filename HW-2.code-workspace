@@ -6,5 +6,8 @@
 		{
 			"path": "/Users/salvadordeleon/code/Responsive-portfolio"
 		}
-	]
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bootstrap-Portfolio"
+	}
 }
